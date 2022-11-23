@@ -21,7 +21,7 @@ map:
   - backup:rw
   - share:ro
   - ssl:ro
-  - media:ro
+  - media:rw
 options:
   jobs:
     - name: Sync Daily Backups
